@@ -1,0 +1,21 @@
+# Cursor AI 규칙
+
+## Git 커밋 메시지
+- 모든 Git 커밋 메시지는 한국어로 작성
+- Conventional Commit 형식 사용 (영문 타입 + 한국어 설명)
+- 타입: feat, fix, docs, style, refactor, test, chore, perf
+
+### 커밋 메시지 형식 예시
+```
+feat: 사용자 인증 기능 추가
+
+- JWT 토큰 기반 인증 구현
+- 로그인/로그아웃 API 추가
+- 세션 관리 로직 구현
+```
+
+## 코드 작성
+- 코드 주석은 한국어로 작성
+- 변수명, 함수명은 영어로 작성 (camelCase)
+- 에러 메시지는 한국어로 작성
+
